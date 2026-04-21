@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Motivation
+## Motivation
 
 Ordinary Least Squares (OLS) regression tells you how predictors affect the **average child**. But in child development research — especially when studying children at risk for learning disabilities — the average can be deeply misleading.
 
@@ -18,7 +18,7 @@ This project is directly inspired by the methodological work of Dr. Jessica Loga
 
 ---
 
-## 📊 What This Repo Does
+## What This Repo Does
 
 1. **Generates** a synthetic dataset modeled on the ECLS-K (Early Childhood Longitudinal Study — Kindergarten Cohort) with 2,000 children tracked from kindergarten through Grade 4
 2. **Fits** Quantile Regression models at τ = 0.10, 0.25, 0.50, 0.75, 0.90 alongside OLS for reading and math outcomes
@@ -27,13 +27,13 @@ This project is directly inspired by the methodological work of Dr. Jessica Loga
 
 ---
 
-## 🔬 Key Research Question
+## Key Research Question
 
 > *Does the effect of SES, vocabulary, or special education status on Grade 4 reading/math scores differ for children at the bottom vs. top of the achievement distribution?*
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 quantile-regression-child-outcomes/
@@ -65,7 +65,7 @@ quantile-regression-child-outcomes/
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 
 ### 1. Clone & install dependencies
 
@@ -89,7 +89,7 @@ This will:
 
 ---
 
-## 📈 Key Variables
+## Key Variables
 
 | Variable | Description |
 |---|---|
@@ -104,7 +104,7 @@ This will:
 
 ---
 
-## 🧠 Methodological Notes
+## Methodological Notes
 
 ### Why Quantile Regression?
 
@@ -128,7 +128,7 @@ Public ECLS-K data can be accessed via: https://nces.ed.gov/ecls/
 
 ---
 
-## 📚 References
+## References
 
 - Koenker, R., & Bassett, G. (1978). Regression quantiles. *Econometrica, 46*(1), 33–50.
 - Logan, J. A. R., & Pentimonti, J. M. (methodological work on child development research)
@@ -137,7 +137,7 @@ Public ECLS-K data can be accessed via: https://nces.ed.gov/ecls/
 
 ---
 
-## 👤 Author
+## Author
 
 **0xafraidoftime** — [GitHub](https://github.com/0xafraidoftime)
 
@@ -145,6 +145,6 @@ Motivated by Dr. Jessica Logan's research on applying advanced statistical model
 
 ---
 
-## 📄 License
+## License
 
 MIT License — see [LICENSE](LICENSE) for details.
