@@ -1,0 +1,6 @@
+It's Not Fair to Just Look at the Middle Kid
+
+Imagine your teacher gives a test to the whole class. After the test, she says "the average score was 70!" and moves on.
+But wait — what about the kids who scored 20? And what about the kids who scored 100? They're all very different, right?
+This project is basically saying: stop only looking at the average kid. Look at ALL the kids. Especially the ones at the bottom, because those are the ones who might need extra help learning to read and do math.
+We built a tool that looks at every part of the class — the struggling kids, the middle kids, the thriving kids — and asks "what's actually helping or hurting each group?" Because what helps a kid who's already doing great might be totally different from what helps a kid who's falling behind.
